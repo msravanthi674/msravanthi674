@@ -1,2 +1,4 @@
-# msravanthi
-Hi!! I'm M Sravanthi
+# M Sravanthi
+Hi!! I'm M Sravanthi 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msravanthi674)](https://github.com/anuraghazra/github-readme-stats)
