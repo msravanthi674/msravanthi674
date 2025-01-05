@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M SRAVANTHI</h1>
-<h3 align="center">B.Tech AI student passionate about cutting-edge technology and its transformative potential. Specializing in AI, I have gained a strong foundation in machine learning, deep learning, NLP, and computer vision. Actively engaged in projects and staying updated with the latest advancements. I am eager to apply my skills to real-world challenges. I aim to contribute to the development of AI-driven solutions.</h3>
+<h3 align="center">B.Tech AI student passionate about cutting-edge technology and its transformative potential. Specializing in AI, I'm achieving a strong foundation in machine learning, deep learning, NLP, and computer vision. Actively engaged in projects and staying updated with the latest advancements. I am eager to apply my skills to real-world challenges. I aim to contribute to the development of AI-driven solutions.</h3>
 <img align="right" alt="Coding" wwidth="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msravanthi674&label=Profile%20views&color=0e75b6&style=flat" alt="msravanthi674" /> </p>
