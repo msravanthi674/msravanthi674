@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sravanthim" target="blank"><img src="https://img.shields.io/twitter/follow/sravanthim?logo=twitter&style=for-the-badge" alt="sravanthim" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **sravanthim674@gmail.com**
 
