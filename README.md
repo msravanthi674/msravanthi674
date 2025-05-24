@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm M SRAVANTHI</h1>
-<h3 align="center">B.Tech AI student passionate about cutting-edge technology and its transformative potential. Specializing in AI, I'm achieving a strong foundation in machine learning, deep learning, NLP, and computer vision. Actively engaged in projects and staying updated with the latest advancements. I am eager to apply my skills to real-world challenges. I aim to contribute to the development of AI-driven solutions.</h3>
+<h3 align="center">B.Tech AI graduate passionate about cutting-edge technology and its transformative potential. Having specialized in Artificial Intelligence, I’ve built a strong foundation in machine learning, deep learning, NLP, and computer vision. I’ve actively contributed to multiple projects and stayed updated with the latest advancements in AI. Currently, I am exploring Azure Cloud services to expand my skills in deploying scalable and secure AI solutions. I aim to apply my knowledge to solve real-world challenges and contribute to the development of impactful, cloud-integrated technologies.
+.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msravanthi674&label=Profile%20views&color=0e75b6&style=flat" alt="msravanthi674" /> </p>
