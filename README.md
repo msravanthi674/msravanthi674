@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M SRAVANTHI</h1>
-<h3 align="center">B.Tech AI graduate passionate about cutting-edge technology and its transformative potential. Having specialized in Artificial Intelligence, I’ve built a strong foundation in machine learning, deep learning, NLP, and computer vision. I’ve actively contributed to multiple projects and stayed updated with the latest advancements in AI. Currently, I am exploring Azure Cloud services to expand my skills in deploying scalable and secure AI solutions. I aim to apply my knowledge to solve real-world challenges and contribute to the development of impactful, cloud-integrated technologies.
+<h3 align="center">B.Tech AI graduate passionate about cutting-edge technology and its transformative potential. Having specialized in Artificial Intelligence, I’ve built a strong foundation in machine learning, deep learning, NLP, and computer vision. I’ve actively contributed to multiple projects and stayed updated with the latest advancements in AI. Currently, I aim to apply my knowledge to solve real-world challenges and contribute to the development of impactful, cloud-integrated technologies.
 .</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
@@ -7,18 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sravanthim" target="blank"><img src="https://img.shields.io/twitter/follow/sravanthim?logo=twitter&style=for-the-badge" alt="sravanthim" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Cloud Services**
-
-  Azure is Microsoft's cloud computing platform offering infrastructure, platform, and software as a service. It helps in building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
-
-  **Azure Basics I'm Exploring:**
-  - Azure Virtual Machines (VMs)
-  - Azure Blob Storage
-  - Azure Machine Learning Studio
-  - Azure Functions
-  - Azure DevOps
-  - Azure Cognitive Services (for vision, language, and speech)
-  - Azure Resource Manager (ARM)
+- 🌱 I’m currently learning **Gen AI**
 
 - 📫 How to reach me **sravanthim674@gmail.com**
 
