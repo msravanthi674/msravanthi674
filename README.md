@@ -98,6 +98,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msravanthi674&show_icons=true&locale=en" alt="msravanthi674" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msravanthi674&" alt="msravanthi674" /></p>
-
-![GitHub-Metrics](metrics.svg)
-![GitHub-Contribution-Chart](https://ghchart.rshah.org/216e39/msravanthi674)
