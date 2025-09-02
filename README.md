@@ -99,3 +99,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msravanthi674&" alt="msravanthi674" /></p>
 
+![GitHub-Metrics](metrics.svg)
