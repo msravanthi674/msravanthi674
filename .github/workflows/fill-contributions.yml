@@ -16,15 +16,19 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "Your Name"
-          git config user.email "your-email@example.com"
+          git config user.name "M SRAVANTHI"
+          git config user.email "sravanthim674@gmail.com"
 
-      - name: Make a dummy commit
+      - name: Make multiple commits
         run: |
-          DATE=$(date '+%Y-%m-%d %H:%M:%S')
-          echo "Commit for $DATE" >> dummy.txt
-          git add dummy.txt
-          git commit -m "Commit for $DATE"
+          FILE=dummy.txt
+          # Create 5 commits with slightly different timestamps to make dark green blocks
+          for i in {1..5}; do
+            DATE=$(date -d "-$i hour" '+%Y-%m-%d %H:%M:%S')
+            echo "Commit for $DATE" >> $FILE
+            git add $FILE
+            git commit -m "Commit for $DATE" --date "$DATE"
+          done
 
-      - name: Push commit
+      - name: Push commits
         run: git push
