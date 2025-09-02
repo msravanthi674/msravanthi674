@@ -1,6 +1,5 @@
 name: Fill GitHub Contributions
-permissions:
-  contents: write
+
 on:
   schedule:
     # Runs every day at 12:00 UTC
